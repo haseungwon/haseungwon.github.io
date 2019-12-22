@@ -1,0 +1,24 @@
+title:              Blog
+email:              peterhah98@gmail.com
+description:        Collection of Studies
+author:             Ha SeungWon
+baseurl:            ""
+url:                "https://haseungwon.github.io"
+
+# Social Profiles
+#twitter_username:   SBootstrap
+github_username:    Haseungwon
+#facebook_username:  StartBootstrap
+#linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
