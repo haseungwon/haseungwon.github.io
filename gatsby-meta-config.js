@@ -52,7 +52,7 @@ module.exports = {
                 },
             },*/
             {
-                date: '2022.87.22 ~ 20220.09.16',
+                date: '2022.08.22 ~ 20220.09.16',
                 activity: '42 서울 La Picine',
                 links: {
                     github: '',
