@@ -61,7 +61,8 @@ module.exports = {
                     appStore: '',
                     demo: '',
                 },
-            } {
+            },
+            {
                 date: '2022.07.17 ~ 20220.08.26',
                 activity: '22년 하계 S/W 알고리즘 역량강화 과정',
                 links: {
