@@ -52,6 +52,17 @@ module.exports = {
                 },
             },*/
             {
+                date: '2022.09.01 ~ 20220.12.21',
+                activity: '3학년 2학기',
+                links: {
+                    github: '',
+                    post: '',
+                    googlePlay: '',
+                    appStore: '',
+                    demo: '',
+                },
+            },
+            {
                 date: '2022.08.22 ~ 20220.09.16',
                 activity: '42 서울 La Picine',
                 links: {
