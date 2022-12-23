@@ -52,6 +52,17 @@ module.exports = {
                 },
             },*/
             {
+                date: '2022.12.22 ~ 2023.02.28',
+                activity: 'KIST 인턴',
+                links: {
+                    github: '',
+                    post: '',
+                    googlePlay: '',
+                    appStore: '',
+                    demo: '',
+                },
+            },
+            {
                 date: '2022.09.01 ~ 20220.12.21',
                 activity: '3학년 2학기',
                 links: {
