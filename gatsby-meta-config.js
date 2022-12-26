@@ -53,7 +53,7 @@ module.exports = {
             },*/
             {
                 date: '2022.12.22 ~ 2023.02.28',
-                activity: 'KIST 인턴',
+                activity: 'KIST 인공지능연구단 인턴',
                 links: {
                     github: '',
                     post: '',
