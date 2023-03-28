@@ -52,6 +52,17 @@ module.exports = {
                 },
             },*/
             {
+                date: '2023.03.02 ~ 2023.06.21',
+                activity: '4학년 1학기',
+                links: {
+                    github: '',
+                    post: '',
+                    googlePlay: '',
+                    appStore: '',
+                    demo: '',
+                },
+            },
+            {
                 date: '2022.12.22 ~ 2023.02.28',
                 activity: 'KIST 인공지능연구단 인턴',
                 links: {
