@@ -52,6 +52,17 @@ module.exports = {
                 },
             },*/
             {
+                date: '2023.06.26 ~ 2023.08.22',
+                activity: 'HD한국조선해양 AIC Landwise-Ai team 인턴',
+                links: {
+                    github: '',
+                    post: '',
+                    googlePlay: '',
+                    appStore: '',
+                    demo: '',
+                },
+            },
+            {
                 date: '2023.03.02 ~ 2023.06.21',
                 activity: '4학년 1학기',
                 links: {
