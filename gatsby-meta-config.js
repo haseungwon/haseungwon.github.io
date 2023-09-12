@@ -52,6 +52,28 @@ module.exports = {
                 },
             },*/
             {
+                date: '2023.09.04 ~ ',
+                activity: '앤티에스 backend developer',
+                links: {
+                    github: '',
+                    post: '',
+                    googlePlay: '',
+                    appStore: '',
+                    demo: '',
+                },
+            },
+            {
+                date: '2023.09.01 ~ ',
+                activity: '4학년 2학기',
+                links: {
+                    github: '',
+                    post: '',
+                    googlePlay: '',
+                    appStore: '',
+                    demo: '',
+                },
+            },
+            {
                 date: '2023.06.26 ~ 2023.08.22',
                 activity: 'HD한국조선해양 AIC Landwise-Ai team 인턴',
                 links: {
