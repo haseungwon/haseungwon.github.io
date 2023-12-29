@@ -52,7 +52,7 @@ module.exports = {
                 },
             },*/
             {
-                date: '2023.09.04 ~ ',
+                date: '2023.09.04 ~ 2023.12.29',
                 activity: '앤티에스 backend developer',
                 links: {
                     github: '',
@@ -63,7 +63,7 @@ module.exports = {
                 },
             },
             {
-                date: '2023.09.01 ~ ',
+                date: '2023.09.01 ~ 2023.12.20',
                 activity: '4학년 2학기',
                 links: {
                     github: '',
