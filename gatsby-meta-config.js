@@ -51,6 +51,17 @@ module.exports = {
                     demo: 'https://www.zoomkoding.com',
                 },
             },*/
+             {
+                date: '2024.01.29 ~ ',
+                activity: 'Samsung Electronics SW developer',
+                links: {
+                    github: '',
+                    post: '',
+                    googlePlay: '',
+                    appStore: '',
+                    demo: '',
+                },
+            },
             {
                 date: '2023.09.04 ~ 2023.12.29',
                 activity: '앤티에스 backend developer',
